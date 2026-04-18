@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "[贰狗日志]",
-		"description": "任贰狗的个人博客，发布一些日常收集来的软件、游戏，还有一些乱七八糟瞎折腾的研究笔记教程之类的。",
-		"username": "Ciao"
+		"title": "[Zerwd的个人博客]",
+		"description": "Zerwd的个人博客，一名初中牲的个人博客（测试）祝您每天开心。awa",
+		"username": "Zerwd"
 	},
 	"theme": {
 		"colorBrand": "#35bfab",
@@ -38,25 +38,18 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/RT622",
-			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "qq",
-			"value": "/images/social-buttons/7f509f0a4c020a31.png",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
-			"id": "email",
+			"id": "button-1776481768439",
 			"type": "email",
-			"value": "Twodog@88.com",
+			"value": "zerwdz@yeah.net",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1776481788376",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/3493133788646349",
+			"label": "Zerwd",
+			"order": 2
 		}
 	],
 	"clockShowSeconds": false,
