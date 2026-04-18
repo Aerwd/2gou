@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "[Zerwd的个人博客]",
+		"title": "Zerwd的个人博客",
 		"description": "Zerwd的个人博客，一名初中牲的个人博客（测试）祝您每天开心。awa",
 		"username": "Zerwd"
 	},
@@ -52,14 +52,14 @@
 			"order": 2
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": true,
 	"hideEditButton": false,
 	"enableCategories": true,
 	"currentHatIndex": 3,
 	"hatFlipped": false,
-	"enableChristmas": true,
+	"enableChristmas": false,
 	"enablePasswordAccess": true,
 	"passwordAccessCategories": [],
 	"passwordAccessPassword": "",
