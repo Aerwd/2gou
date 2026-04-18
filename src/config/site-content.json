@@ -48,7 +48,7 @@
 			"id": "button-1776481788376",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/3493133788646349",
-			"label": "Zerwd",
+			"label": "",
 			"order": 2
 		}
 	],
@@ -61,11 +61,8 @@
 	"hatFlipped": false,
 	"enableChristmas": true,
 	"enablePasswordAccess": true,
-	"passwordAccessCategories": [
-		"Chara",
-		"Games"
-	],
-	"passwordAccessPassword": "110110",
+	"passwordAccessCategories": [],
+	"passwordAccessPassword": "",
 	"beian": {
 		"text": "",
 		"link": ""
