@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "Zerwd's blog",
+		"title": "Zerwd的简陋博客",
 		"description": "Zerwd的博客，一名初中牲的个人博客（测试）祝您每天开心。awa",
 		"username": "Zerwd"
 	},
@@ -60,8 +60,15 @@
 			"id": "button-1776481788376",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/3493133788646349",
-			"label": "",
+			"label": "@Zerwd",
 			"order": 2
+		},
+		{
+			"id": "button-1777469513287",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/1425453405",
+			"label": "@玉幽OvO",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": true,
